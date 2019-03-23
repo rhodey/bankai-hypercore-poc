@@ -11,4 +11,4 @@ $ echo "visit http://localhost:8080 in browser and notice require is buggy."
 ```
 
 ## Notes
-If you remove `require('hypercore')` from 'views/main.js` and then re-build and reload the webpage you will notice the error message has disappeared. I have only been able to reproduce this behviour using npm modules `hypercore` and `hyperdb`.
+If you remove `require('hypercore')` from `views/main.js` and then re-build and reload the webpage you will notice the error message has disappeared. I have only been able to reproduce this behviour using npm modules `hypercore` and `hyperdb`.
