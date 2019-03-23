@@ -1,0 +1,10 @@
+{
+  "name": "bankai-min",
+  "short_name": "bankai-min",
+  "description": "bankai-min.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#000",
+  "icons": []
+}
